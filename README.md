@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
@@ -85,3 +86,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# PROFILE_CARD_COMPONENT_MAIN
+>>>>>>> 788de12d3513227f099864a5467b7df75cec64cd
